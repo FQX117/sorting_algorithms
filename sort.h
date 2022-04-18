@@ -1,6 +1,6 @@
 #ifndef SORT_H_
 #define SORT_H_
-/*structs8/
+/*structs8*/
 /*
 */typedef struct listint_s
 {
